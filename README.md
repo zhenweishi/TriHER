@@ -11,7 +11,7 @@ Accurate assessment of Human epidermal growth factor receptor 2 (HER2) expressio
 Current clinical guidelines classify HER2 status into binary categories based on immunohistochemistry (IHC) analysis and fluorescence in situ hybridization (FISH): HER2-positive (IHC 3+ or IHC 2+ with FISH amplification) and HER2-negative (IHC 0/1+ or IHC 2+ without FISH amplification). However, emerging evidence indicates that up to 60% of HER2-negative cases exhibit low HER2 expression (HER2-low, defined as IHC 1+ or 2+ without FISH amplification), which remains undetected under the traditional binary framework.Here, we propose a novel framework that integrates a pretrained foundation model with a machine learning classifier to predict triple-class HER2 expression (hereafter TriHER) from DCE-MRI data.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3f41e65-bbc9-4d4e-8858-7bc27fa9359b" width="1000" height="250">
+  <img src="https://github.com/user-attachments/assets/c3f41e65-bbc9-4d4e-8858-7bc27fa9359b" width="1000" height="230">
 </p>
 
 ## Clinical Application
@@ -19,7 +19,7 @@ Current clinical guidelines classify HER2 status into binary categories based on
 We highlight four representative cases to illustrate TriHER’s ability to differentiate subtle imaging features associated with HER2 expression. In each group (Patients A and B, Patients C and D), patients exhibited identical clinicopathological characteristics and were concordantly categorized as HER2-negative under the conventional binary HER2 classification. However, TriHER successfully discriminated HER2-zero by diverse subtle imaging patterns, thereby enabling precision stratification for T-DXd therapy eligibility.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad221e53-dd06-4b71-8925-efedfdc466fb" width="1000" height="800">
+  <img src="https://github.com/user-attachments/assets/ad221e53-dd06-4b71-8925-efedfdc466fb" width="1000" height="720">
 </p>
 
 
